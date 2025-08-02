@@ -1,4 +1,4 @@
-package Day01;
+package jdbcConection_1;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
